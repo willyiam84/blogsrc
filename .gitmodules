@@ -1,0 +1,3 @@
+[submodule "willyiam-blog/themes/meme"]
+	path = willyiam-blog/themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
